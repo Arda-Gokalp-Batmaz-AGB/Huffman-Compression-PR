@@ -1,0 +1,1 @@
+This is a text file that reserved for testing level 1 compression and decompression operations. This text data will be converted to encoded binary version by comperssion operation and after will be read and converted to it's original version by decompression operation.
